@@ -1,3 +1,3 @@
-# Advent of Code 2021
+# Advent of Code
 
-I'm learning some Common Lisp this year with Advent of Code.
+My Advent of Code efforts.
